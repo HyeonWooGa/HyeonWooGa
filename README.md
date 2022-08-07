@@ -1,4 +1,6 @@
-### Hi there 👋
+### Divide and Conquer
+### Step by Step
+### No hope to No Cap
 
 <!--
 **HyeonWooGa/HyeonWooGa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

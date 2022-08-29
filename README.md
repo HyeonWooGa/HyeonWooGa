@@ -1,7 +1,5 @@
-## 박연우 On The Rocket🚀
+## 박연우, Aim for the TOP Developer
 ---
-### "No Hope to No Cap"
-### "답 없던 사람에서 의심의 여지 없는 사람으로"
 
 <!--
 **HyeonWooGa/HyeonWooGa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Aim%20for%20the%20Top%20Developer&fontSize=46&desc=박연우&descSize=32&descAlignY=30&descAlign=22)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Aim%20for%20the%20Top%20Developer&fontSize=46)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonWooGa&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonWooGa&layout=compact&theme=tokyonight)

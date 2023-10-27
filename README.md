@@ -1,4 +1,4 @@
-## 박연우, Aim for the TOP Developer
+## 박연우, Good Developer for Lives
 ---
 
 <!--
